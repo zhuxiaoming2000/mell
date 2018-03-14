@@ -40,7 +40,7 @@ public class ItemController {
 	
 	@RequestMapping("aaa")
 	public String aaa(){
-		
+		System.out.println("hello");
 		return null;
 	}
 }
