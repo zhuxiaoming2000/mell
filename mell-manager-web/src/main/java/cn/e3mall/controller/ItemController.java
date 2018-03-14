@@ -41,6 +41,7 @@ public class ItemController {
 	@RequestMapping("aaa")
 	public String aaa(){
 		System.out.println("hello");
+		System.out.println("world");
 		return null;
 	}
 }
